@@ -1,0 +1,27 @@
+{
+  "name": "resource-angularjs-search",
+  "version": "0.1.0",
+  "description": "Search with AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resource-solutions/resource-angularjs-search.git"
+  },
+  "keywords": [
+    "angularjs",
+    "resource",
+    "search"
+  ],
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resource-solutions/resource-angularjs-search/issues"
+  },
+  "homepage": "https://github.com/resource-solutions/resource-angularjs-search#readme",
+  "devDependencies": {
+    "angular": "^1.5.0"
+  }
+}
