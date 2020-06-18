@@ -10,9 +10,9 @@ angular-route@^1.5.0:
   version "1.6.8"
   resolved "https://registry.yarnpkg.com/angular-route/-/angular-route-1.6.8.tgz#82ace773e7b232bf77768370760244a8caab5d36"
 
-angular@^1.7.9:
-  version "1.7.9"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.9.tgz#e52616e8701c17724c3c238cfe4f9446fd570bc4"
+angular@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.0.tgz#b1ec179887869215cab6dfd0df2e42caa65b1b51"
 
 jquery@^3.4.0:
   version "3.4.0"
